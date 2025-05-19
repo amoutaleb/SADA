@@ -20,8 +20,7 @@ In case you use the code or dataset, please consider citing our paper as:
   author  = {Abdelmoutaleb Noumeur and Mohamad Syazarudin Md Said and Mohd Rafee Baharudin and Hamdan Mohamed Yusoff and Mohd Zahirasri Mohd Tohir},
   keywords = {Fire alarm, Audibility, Sound level, Acoustic, Building fire safety, Machine learning}
 }
-
-
+```
 # SADA
 SADA: Sound Audibility Determination Application
 SADA is an open-source desktop application designed to simplify the calculation of sound levels in residential and commercial buildings. It leverages established acoustic calculation methods and integrates a user-friendly interface for researchers, engineers, and safety professionals.
