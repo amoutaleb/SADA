@@ -5,7 +5,7 @@ This code is part of an academic publication, and complements the research paper
 
 ## 📄 Citation
 
-In case you use the code or dataset, please consider citing our paper as:
+In case you use the code, please consider citing our paper as:
 
 ```bibtex
 @article{Noumeur2025107314,
