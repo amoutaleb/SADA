@@ -1,3 +1,27 @@
+
+This code is part of an academic publication, and complements the research paper:
+
+> A. Noumeur, M.S. Md Said, M.R. Baharudin, H.M. Yusoff, M.Z.M. Tohir. Predicting spatial sound attenuation in buildings with machine learning: Implications for fire alarm placement, *Process Safety and Environmental Protection*, Volume 199, 2025. [https://doi.org/10.1016/j.psep.2025.107314](https://doi.org/10.1016/j.psep.2025.107314)
+
+## 📄 Citation
+
+In case you use the code or dataset, please consider citing our paper as:
+
+```bibtex
+@article{Noumeur2025107314,
+  title   = {Predicting spatial sound attenuation in buildings with machine learning: Implications for fire alarm placement},
+  journal = {Process Safety and Environmental Protection},
+  volume  = {199},
+  pages   = {107314},
+  year    = {2025},
+  issn    = {0957-5820},
+  doi     = {https://doi.org/10.1016/j.psep.2025.107314},
+  url     = {https://www.sciencedirect.com/science/article/pii/S0957582025005816},
+  author  = {Abdelmoutaleb Noumeur and Mohamad Syazarudin Md Said and Mohd Rafee Baharudin and Hamdan Mohamed Yusoff and Mohd Zahirasri Mohd Tohir},
+  keywords = {Fire alarm, Audibility, Sound level, Acoustic, Building fire safety, Machine learning}
+}
+
+
 # SADA
 SADA: Sound Audibility Determination Application
 SADA is an open-source desktop application designed to simplify the calculation of sound levels in residential and commercial buildings. It leverages established acoustic calculation methods and integrates a user-friendly interface for researchers, engineers, and safety professionals.
