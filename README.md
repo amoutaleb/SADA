@@ -36,7 +36,7 @@ User-friendly interface for inputting building parameters and calculating sound 
 Comparison of different calculation methods to understand variability in sound predictions.
 Developed with Python's Tkinter library, ensuring simplicity and extensibility.
 Open-source platform allowing integration of new calculation methods or updates.
-Purpose
+## Purpose
 
 # The primary goal of SADA is to facilitate:
 
